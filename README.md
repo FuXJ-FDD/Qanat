@@ -14,7 +14,7 @@ The trained YOLO11 weights are provided in this repository for verification:
 ## 📄 Related Publication
 If you find this repository, code, or dataset useful for your research, please consider citing our published paper:
 
-**Fu, X.**, Li, J., Zhang, J., Luo, L., & Li, F. (2026). *[Please insert your exact paper title here]* Journal of Archaeological Science. [https://doi.org/10.1016/j.jas.2026.106526](https://doi.org/10.1016/j.jas.2026.106526)
+[cite_start]**Fu, X.**, Luo, L., Li, F., Yang, J., Shao, J., Tu, R., Fan, J., Luo, Z., & Zhang, Z. [cite: 8, 9] (2026) [cite_start][cite: 2]. [cite_start]Deep learning with geographical post-processing optimization: an integrated framework for detecting qanat activity states[cite: 7]. [cite_start]*Journal of Archaeological Science* [cite: 4][cite_start], 188, 106526[cite: 2]. [cite_start][https://doi.org/10.1016/j.jas.2026.106526](https://doi.org/10.1016/j.jas.2026.106526) [cite: 36]
 
 > **📌 Important Notes for Users:**
 > * **Manuscript Reference:** When reviewing the evaluation metrics and findings in the manuscript, please ensure you refer to **Table 4** for the correct data summary (an earlier typesetting draft contained a misprint referring to Table 6).
